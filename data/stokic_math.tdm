@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<usi:tdm xmlns:usi="http://www.ni.com/Schemas/USI/1_0" version="1.0">
+
+  <usi:documentation>
+    <usi:exporter>National Instruments USI</usi:exporter>
+    <usi:exporterVersion>1.1</usi:exporterVersion>
+  </usi:documentation>
+
+  <usi:model modelName="National Instruments USI generated meta file" modelVersion="1.0">
+    <usi:include nsUri="http://www.ni.com/DataModels/USI/TDM/1_0"/>
+  </usi:model>
+
+  <usi:include>
+    <file byteOrder="littleEndian" url="stokic_math.tdx">
+      <block byteOffset="0" id="inc0" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="8" id="inc1" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="16" id="inc2" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="24" id="inc3" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="32" id="inc4" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="40" id="inc5" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="48" id="inc6" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="56" id="inc7" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="64" id="inc8" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="72" id="inc9" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="80" id="inc10" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="88" id="inc11" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="96" id="inc12" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="104" id="inc13" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="112" id="inc14" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="120" id="inc15" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="128" id="inc16" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="136" id="inc17" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="144" id="inc18" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="152" id="inc19" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="160" id="inc20" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="168" id="inc21" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="176" id="inc22" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="184" id="inc23" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="192" id="inc24" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="200" id="inc25" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="208" id="inc26" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="216" id="inc27" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="224" id="inc28" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="232" id="inc29" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="240" id="inc30" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="248" id="inc31" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="256" id="inc32" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="264" id="inc33" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="272" id="inc34" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="280" id="inc35" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="288" id="inc36" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="296" id="inc37" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="304" id="inc38" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="312" id="inc39" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="320" id="inc40" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="328" id="inc41" length="1" valueType="eFloat64Usi"/>
+      <block byteOffset="336" id="inc42" length="1" valueType="eFloat64Usi"/>
+    </file>
+  </usi:include>
+
+  <usi:data>
+    <double_sequence id="usi1">
+      <values external="inc0"/>
+    </double_sequence>
+    <tdm_root id="usi2">
+      <instance_attributes>
+        <time_attribute name="wf_create_time">2006-11-02T00:14:51.15599966049194336</time_attribute>
+      </instance_attributes>
+      <name>stokic_math.tdm</name>
+      <description></description>
+      <author>John</author>
+      <datetime>2006-11-02T00:14:51.15599966049194336</datetime>
+      <registertxt1>Written by National Instruments LabVIEW</registertxt1>
+      <channelgroups>#xpointer(id("usi3") id("usi8") id("usi13") id("usi18") id("usi23") id("usi28") id("usi33") id("usi38") id("usi43") id("usi48") id("usi53") id("usi58") id("usi63") id("usi68") id("usi73") id("usi78") id("usi83") id("usi88") id("usi93") id("usi98") id("usi103") id("usi108") id("usi113") id("usi118") id("usi123") id("usi128") id("usi133") id("usi138") id("usi143") id("usi148") id("usi153") id("usi158") id("usi163") id("usi168") id("usi173") id("usi178") id("usi183") id("usi188") id("usi193") id("usi198") id("usi203") id("usi208") id("usi213"))</channelgroups>
+    </tdm_root>
+    <tdm_channelgroup id="usi3">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi4"))</channels>
+      <submatrices>#xpointer(id("usi5"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi4">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi3"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.346435546875</minimum>
+      <maximum>1.346435546875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">0</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:51.15599966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi6"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi5">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi3"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi6"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi6">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi4"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi5"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi1"))</values>
+    </localcolumn>
+    <double_sequence id="usi7">
+      <values external="inc1"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi8">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi9"))</channels>
+      <submatrices>#xpointer(id("usi10"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi9">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi8"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.358642578125</minimum>
+      <maximum>1.358642578125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.23400020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.3899998664855957</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi11"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi10">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi8"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi11"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi11">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi9"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi10"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi7"))</values>
+    </localcolumn>
+    <double_sequence id="usi12">
+      <values external="inc2"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi13">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi14"))</channels>
+      <submatrices>#xpointer(id("usi15"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi14">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi13"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.52587890625</minimum>
+      <maximum>1.52587890625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.2810001373291</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.43699979782104492</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi16"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi15">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi13"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi16"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi16">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi14"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi15"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi12"))</values>
+    </localcolumn>
+    <double_sequence id="usi17">
+      <values external="inc3"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi18">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi19"))</channels>
+      <submatrices>#xpointer(id("usi20"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi19">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi18"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.527099609375</minimum>
+      <maximum>1.527099609375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.32800006866455</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.48399972915649414</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi21"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi20">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi18"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi21"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi21">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi19"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi20"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi17"))</values>
+    </localcolumn>
+    <double_sequence id="usi22">
+      <values external="inc4"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi23">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi24"))</channels>
+      <submatrices>#xpointer(id("usi25"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi24">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi23"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.527099609375</minimum>
+      <maximum>1.527099609375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.375</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.53099966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi26"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi25">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi23"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi26"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi26">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi24"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi25"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi22"))</values>
+    </localcolumn>
+    <double_sequence id="usi27">
+      <values external="inc5"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi28">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi29"))</channels>
+      <submatrices>#xpointer(id("usi30"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi29">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi28"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.514892578125</minimum>
+      <maximum>1.514892578125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.42200040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.57800006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi31"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi30">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi28"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi31"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi31">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi29"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi30"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi27"))</values>
+    </localcolumn>
+    <double_sequence id="usi32">
+      <values external="inc6"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi33">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi34"))</channels>
+      <submatrices>#xpointer(id("usi35"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi34">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi33"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.51123046875</minimum>
+      <maximum>1.51123046875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.46900033950806</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.625</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi36"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi35">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi33"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi36"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi36">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi34"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi35"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi32"))</values>
+    </localcolumn>
+    <double_sequence id="usi37">
+      <values external="inc7"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi38">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi39"))</channels>
+      <submatrices>#xpointer(id("usi40"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi39">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi38"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.5087890625</minimum>
+      <maximum>1.5087890625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.5310001373291</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.68699979782104492</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi41"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi40">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi38"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi41"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi41">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi39"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi40"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi37"))</values>
+    </localcolumn>
+    <double_sequence id="usi42">
+      <values external="inc8"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi43">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi44"))</channels>
+      <submatrices>#xpointer(id("usi45"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi44">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi43"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.50146484375</minimum>
+      <maximum>1.50146484375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.57800006866455</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.73399972915649414</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi46"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi45">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi43"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi46"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi46">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi44"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi45"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi42"))</values>
+    </localcolumn>
+    <double_sequence id="usi47">
+      <values external="inc9"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi48">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi49"))</channels>
+      <submatrices>#xpointer(id("usi50"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi49">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi48"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.492919921875</minimum>
+      <maximum>1.492919921875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.625</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.79600000381469727</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi51"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi50">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi48"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi51"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi51">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi49"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi50"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi47"))</values>
+    </localcolumn>
+    <double_sequence id="usi52">
+      <values external="inc10"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi53">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi54"))</channels>
+      <submatrices>#xpointer(id("usi55"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi54">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi53"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.492919921875</minimum>
+      <maximum>1.492919921875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.6870002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.84299993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi56"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi55">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi53"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi56"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi56">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi54"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi55"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi52"))</values>
+    </localcolumn>
+    <double_sequence id="usi57">
+      <values external="inc11"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi58">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi59"))</channels>
+      <submatrices>#xpointer(id("usi60"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi59">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi58"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.474609375</minimum>
+      <maximum>1.474609375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.75</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.90599966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi61"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi60">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi58"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi61"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi61">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi59"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi60"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi57"))</values>
+    </localcolumn>
+    <double_sequence id="usi62">
+      <values external="inc12"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi63">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi64"))</channels>
+      <submatrices>#xpointer(id("usi65"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi64">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi63"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.453857421875</minimum>
+      <maximum>1.453857421875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.79700040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:53.95300006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi66"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi65">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi63"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi66"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi66">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi64"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi65"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi62"))</values>
+    </localcolumn>
+    <double_sequence id="usi67">
+      <values external="inc13"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi68">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi69"))</channels>
+      <submatrices>#xpointer(id("usi70"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi69">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi68"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.42578125</minimum>
+      <maximum>1.42578125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.85900020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.014999866485595703</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi71"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi70">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi68"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi71"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi71">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi69"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi70"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi67"))</values>
+    </localcolumn>
+    <double_sequence id="usi72">
+      <values external="inc14"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi73">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi74"))</channels>
+      <submatrices>#xpointer(id("usi75"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi74">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi73"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.414794921875</minimum>
+      <maximum>1.414794921875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.92200040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.078000068664550781</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi76"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi75">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi73"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi76"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi76">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi74"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi75"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi72"))</values>
+    </localcolumn>
+    <double_sequence id="usi77">
+      <values external="inc15"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi78">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi79"))</channels>
+      <submatrices>#xpointer(id("usi80"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi79">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi78"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.383056640625</minimum>
+      <maximum>1.383056640625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">2.98400020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.1399998664855957</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi81"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi80">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi78"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi81"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi81">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi79"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi80"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi77"))</values>
+    </localcolumn>
+    <double_sequence id="usi82">
+      <values external="inc16"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi83">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi84"))</channels>
+      <submatrices>#xpointer(id("usi85"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi84">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi83"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.38916015625</minimum>
+      <maximum>1.38916015625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.04700040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.20300006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi86"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi85">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi83"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi86"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi86">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi84"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi85"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi82"))</values>
+    </localcolumn>
+    <double_sequence id="usi87">
+      <values external="inc17"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi88">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi89"))</channels>
+      <submatrices>#xpointer(id("usi90"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi89">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi88"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.40625</minimum>
+      <maximum>1.40625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.10900020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.2649998664855957</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi91"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi90">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi88"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi91"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi91">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi89"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi90"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi87"))</values>
+    </localcolumn>
+    <double_sequence id="usi92">
+      <values external="inc18"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi93">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi94"))</channels>
+      <submatrices>#xpointer(id("usi95"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi94">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi93"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.39892578125</minimum>
+      <maximum>1.39892578125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.17200040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.32800006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi96"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi95">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi93"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi96"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi96">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi94"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi95"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi92"))</values>
+    </localcolumn>
+    <double_sequence id="usi97">
+      <values external="inc19"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi98">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi99"))</channels>
+      <submatrices>#xpointer(id("usi100"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi99">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi98"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.40625</minimum>
+      <maximum>1.40625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.23400020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.3899998664855957</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi101"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi100">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi98"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi101"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi101">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi99"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi100"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi97"))</values>
+    </localcolumn>
+    <double_sequence id="usi102">
+      <values external="inc20"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi103">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi104"))</channels>
+      <submatrices>#xpointer(id("usi105"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi104">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi103"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.383056640625</minimum>
+      <maximum>1.383056640625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.3120002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.46799993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi106"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi105">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi103"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi106"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi106">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi104"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi105"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi102"))</values>
+    </localcolumn>
+    <double_sequence id="usi107">
+      <values external="inc21"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi108">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi109"))</channels>
+      <submatrices>#xpointer(id("usi110"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi109">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi108"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.37451171875</minimum>
+      <maximum>1.37451171875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.375</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.53099966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi111"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi110">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi108"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi111"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi111">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi109"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi110"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi107"))</values>
+    </localcolumn>
+    <double_sequence id="usi112">
+      <values external="inc22"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi113">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi114"))</channels>
+      <submatrices>#xpointer(id("usi115"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi114">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi113"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.348876953125</minimum>
+      <maximum>1.348876953125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.4370002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.59299993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi116"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi115">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi113"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi116"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi116">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi114"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi115"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi112"))</values>
+    </localcolumn>
+    <double_sequence id="usi117">
+      <values external="inc23"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi118">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi119"))</channels>
+      <submatrices>#xpointer(id("usi120"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi119">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi118"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.35009765625</minimum>
+      <maximum>1.35009765625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.5</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.65599966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi121"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi120">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi118"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi121"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi121">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi119"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi120"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi117"))</values>
+    </localcolumn>
+    <double_sequence id="usi122">
+      <values external="inc24"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi123">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi124"))</channels>
+      <submatrices>#xpointer(id("usi125"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi124">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi123"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.356201171875</minimum>
+      <maximum>1.356201171875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.5620002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.71799993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi126"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi125">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi123"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi126"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi126">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi124"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi125"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi122"))</values>
+    </localcolumn>
+    <double_sequence id="usi127">
+      <values external="inc25"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi128">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi129"))</channels>
+      <submatrices>#xpointer(id("usi130"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi129">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi128"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.357421875</minimum>
+      <maximum>1.357421875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.625</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.78099966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi131"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi130">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi128"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi131"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi131">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi129"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi130"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi127"))</values>
+    </localcolumn>
+    <double_sequence id="usi132">
+      <values external="inc26"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi133">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi134"))</channels>
+      <submatrices>#xpointer(id("usi135"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi134">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi133"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.351318359375</minimum>
+      <maximum>1.351318359375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.70300006866455</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.85899972915649414</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi136"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi135">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi133"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi136"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi136">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi134"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi135"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi132"))</values>
+    </localcolumn>
+    <double_sequence id="usi137">
+      <values external="inc27"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi138">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi139"))</channels>
+      <submatrices>#xpointer(id("usi140"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi139">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi138"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.356201171875</minimum>
+      <maximum>1.356201171875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.76500034332275</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:54.92100000381469727</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi141"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi140">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi138"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi141"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi141">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi139"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi140"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi137"))</values>
+    </localcolumn>
+    <double_sequence id="usi142">
+      <values external="inc28"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi143">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi144"))</channels>
+      <submatrices>#xpointer(id("usi145"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi144">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi143"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.33544921875</minimum>
+      <maximum>1.33544921875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.84400033950806</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi146"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi145">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi143"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi146"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi146">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi144"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi145"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi142"))</values>
+    </localcolumn>
+    <double_sequence id="usi147">
+      <values external="inc29"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi148">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi149"))</channels>
+      <submatrices>#xpointer(id("usi150"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi149">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi148"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.34765625</minimum>
+      <maximum>1.34765625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.9060001373291</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.061999797821044922</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi151"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi150">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi148"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi151"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi151">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi149"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi150"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi147"))</values>
+    </localcolumn>
+    <double_sequence id="usi152">
+      <values external="inc30"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi153">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi154"))</channels>
+      <submatrices>#xpointer(id("usi155"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi154">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi153"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.31591796875</minimum>
+      <maximum>1.31591796875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">3.96900033950806</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.125</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi156"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi155">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi153"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi156"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi156">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi154"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi155"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi152"))</values>
+    </localcolumn>
+    <double_sequence id="usi157">
+      <values external="inc31"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi158">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi159"))</channels>
+      <submatrices>#xpointer(id("usi160"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi159">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi158"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.3330078125</minimum>
+      <maximum>1.3330078125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.04700040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.20300006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi161"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi160">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi158"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi161"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi161">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi159"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi160"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi157"))</values>
+    </localcolumn>
+    <double_sequence id="usi162">
+      <values external="inc32"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi163">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi164"))</channels>
+      <submatrices>#xpointer(id("usi165"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi164">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi163"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.33056640625</minimum>
+      <maximum>1.33056640625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.125</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.28099966049194336</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi166"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi165">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi163"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi166"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi166">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi164"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi165"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi162"))</values>
+    </localcolumn>
+    <double_sequence id="usi167">
+      <values external="inc33"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi168">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi169"))</channels>
+      <submatrices>#xpointer(id("usi170"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi169">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi168"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.33056640625</minimum>
+      <maximum>1.33056640625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.1870002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.34299993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi171"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi170">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi168"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi171"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi171">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi169"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi170"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi167"))</values>
+    </localcolumn>
+    <double_sequence id="usi172">
+      <values external="inc34"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi173">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi174"))</channels>
+      <submatrices>#xpointer(id("usi175"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi174">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi173"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.346435546875</minimum>
+      <maximum>1.346435546875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.26500034332275</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.42100000381469727</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi176"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi175">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi173"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi176"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi176">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi174"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi175"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi172"))</values>
+    </localcolumn>
+    <double_sequence id="usi177">
+      <values external="inc35"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi178">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi179"))</channels>
+      <submatrices>#xpointer(id("usi180"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi179">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi178"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.337890625</minimum>
+      <maximum>1.337890625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.34400033950806</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.5</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi181"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi180">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi178"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi181"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi181">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi179"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi180"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi177"))</values>
+    </localcolumn>
+    <double_sequence id="usi182">
+      <values external="inc36"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi183">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi184"))</channels>
+      <submatrices>#xpointer(id("usi185"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi184">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi183"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.346435546875</minimum>
+      <maximum>1.346435546875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.42200040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.57800006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi186"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi185">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi183"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi186"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi186">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi184"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi185"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi182"))</values>
+    </localcolumn>
+    <double_sequence id="usi187">
+      <values external="inc37"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi188">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi189"))</channels>
+      <submatrices>#xpointer(id("usi190"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi189">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi188"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.334228515625</minimum>
+      <maximum>1.334228515625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.48400020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.6399998664855957</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi191"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi190">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi188"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi191"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi191">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi189"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi190"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi187"))</values>
+    </localcolumn>
+    <double_sequence id="usi192">
+      <values external="inc38"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi193">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi194"))</channels>
+      <submatrices>#xpointer(id("usi195"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi194">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi193"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.33544921875</minimum>
+      <maximum>1.33544921875</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.5620002746582</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.71799993515014648</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi196"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi195">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi193"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi196"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi196">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi194"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi195"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi192"))</values>
+    </localcolumn>
+    <double_sequence id="usi197">
+      <values external="inc39"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi198">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi199"))</channels>
+      <submatrices>#xpointer(id("usi200"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi199">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi198"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.3330078125</minimum>
+      <maximum>1.3330078125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.64000034332275</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.79600000381469727</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi201"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi200">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi198"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi201"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi201">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi199"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi200"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi197"))</values>
+    </localcolumn>
+    <double_sequence id="usi202">
+      <values external="inc40"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi203">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi204"))</channels>
+      <submatrices>#xpointer(id("usi205"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi204">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi203"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.328125</minimum>
+      <maximum>1.328125</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.71900033950806</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.875</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi206"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi205">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi203"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi206"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi206">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi204"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi205"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi202"))</values>
+    </localcolumn>
+    <double_sequence id="usi207">
+      <values external="inc41"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi208">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi209"))</channels>
+      <submatrices>#xpointer(id("usi210"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi209">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi208"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.324462890625</minimum>
+      <maximum>1.324462890625</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.79700040817261</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:55.95300006866455078</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi211"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi210">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi208"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi211"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi211">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi209"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi210"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi207"))</values>
+    </localcolumn>
+    <double_sequence id="usi212">
+      <values external="inc42"/>
+    </double_sequence>
+    <tdm_channelgroup id="usi213">
+      <name>Untitled</name>
+      <root>#xpointer(id("usi2"))</root>
+      <instance_attributes>
+        <string_attribute name="wf_xcolumns">
+          <s>None</s>
+        </string_attribute>
+      </instance_attributes>
+      <channels>#xpointer(id("usi214"))</channels>
+      <submatrices>#xpointer(id("usi215"))</submatrices>
+    </tdm_channelgroup>
+    <tdm_channel id="usi214">
+      <name>Untitled</name>
+      <group>#xpointer(id("usi213"))</group>
+      <unit_string></unit_string>
+      <datatype>DT_DOUBLE</datatype>
+      <minimum>1.322021484375</minimum>
+      <maximum>1.322021484375</maximum>
+      <instance_attributes>
+        <string_attribute name="wf_xname">
+          <s>Time</s>
+        </string_attribute>
+        <string_attribute name="wf_xunit_string">
+          <s>s</s>
+        </string_attribute>
+        <long_attribute name="wf_samples">1</long_attribute>
+        <double_attribute name="wf_increment">0.0333333333333333</double_attribute>
+        <double_attribute name="wf_start_offset">4.85900020599365</double_attribute>
+        <time_attribute name="wf_start_time">2006-11-02T00:14:56.014999866485595703</time_attribute>
+        <string_attribute name="wf_time_pref">
+          <s>absolute</s>
+        </string_attribute>
+      </instance_attributes>
+      <local_columns>#xpointer(id("usi216"))</local_columns>
+    </tdm_channel>
+    <submatrix id="usi215">
+      <name>Untitled</name>
+      <measurement>#xpointer(id("usi213"))</measurement>
+      <number_of_rows>1</number_of_rows>
+      <local_columns>#xpointer(id("usi216"))</local_columns>
+    </submatrix>
+    <localcolumn id="usi216">
+      <name>Untitled</name>
+      <measurement_quantity>#xpointer(id("usi214"))</measurement_quantity>
+      <submatrix>#xpointer(id("usi215"))</submatrix>
+      <global_flag>15</global_flag>
+      <independent>0</independent>
+      <sequence_representation>explicit</sequence_representation>
+      <values>#xpointer(id("usi212"))</values>
+    </localcolumn>
+  </usi:data>
+
+</usi:tdm>
